@@ -12,6 +12,8 @@ I'm an IT Leader with a strong background in DevOps, Cloud technologies, Full-St
 
 ## 📈 GitHub Stats
 ![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahiaalnaqeeb&show_icons=true&count_private=true&hide_title=false)
+<br>
+![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahiaalnaqeeb&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=radical)
 
 ## 📫 How to Reach Me
 - Email: [yahiaalnaqeeb@gmail.com](mailto:yahiaalnaqeeb@gmail.com)
