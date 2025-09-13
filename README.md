@@ -11,7 +11,7 @@ I'm an IT Leader with a strong background in DevOps, Cloud technologies, Full-St
 - **Tools & Technologies**: Git, Terraform, Ansible
 
 ## 📈 GitHub Stats
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahiaalnaqeeb&show_icons=true&hide_title=true)
+![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahiaalnaqeeb&show_icons=true&count_private=true&hide_title=false)
 
 ## 📫 How to Reach Me
 - Email: [yahiaalnaqeeb@gmail.com](mailto:yahiaalnaqeeb@gmail.com)
